@@ -74,7 +74,7 @@ body {
 
 .productivity {
     height: 600px;
-    background-image: url("../Images/Rectangle.png");
+    background-image: url("../images/Rectangle.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -218,7 +218,7 @@ span {
 
 .productivity_system {
     height: 600px;
-    background: url("../Images/Rectangle(1).png") no-repeat;
+    background: url("../images/Rectangle(1).png") no-repeat;
 }
 
 .aside {
@@ -291,7 +291,7 @@ span {
 
 .section-1 {
     height: 570px;
-    background:url("../Images/Rectangle(2).png") 546px 127px no-repeat, url("../Images/white.png") 140px 127px no-repeat;
+    background:url("../images/Rectangle(2).png") 546px 127px no-repeat, url("../images/white.png") 140px 127px no-repeat;
     background-size: auto;
 }
 
@@ -403,7 +403,7 @@ span {
 
 .design {
     height: 600px;
-    background-image: url("../Images/Rectangle(4).png");
+    background-image: url("../images/Rectangle(4).png");
     background-repeat: no-repeat;
 }
 
