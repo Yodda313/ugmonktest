@@ -44,9 +44,9 @@ function getItems(className) {
 
 // Вывод текста input
 
-document.querySelector('.btn-news').onclick = myClick;
-
-function myClick() {
+function getText() {
     const input = document.querySelector('.input').value;
     console.log(input)
 };
+
+document.querySelector('.btn-news').onclick = getText;
